@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{239:function(e,n,t){"use strict";t.r(n);var a=t(0),r=t.n(a),l=t(235),c=t(234);n.default=function(){return r.a.createElement(l.a,null,r.a.createElement(c.a,{title:"Powered By"}),r.a.createElement("h1",null,"Powered by Gatsby"))}}}]);
+//# sourceMappingURL=component---src-pages-powered-js-03f365466a6bab682707.js.map
