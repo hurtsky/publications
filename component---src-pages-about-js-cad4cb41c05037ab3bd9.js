@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{313:function(e,t,n){"use strict";n.r(t);var a=n(1),u=n.n(a),l=n(309),c=n(310);t.default=function(){return u.a.createElement(l.a,null,u.a.createElement(c.a,{title:"About"}),u.a.createElement("h1",null,"About us.."))}}}]);
+//# sourceMappingURL=component---src-pages-about-js-cad4cb41c05037ab3bd9.js.map

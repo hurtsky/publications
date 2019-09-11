@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{243:function(e,a,n){"use strict";n.r(a);var t=n(0),l=n.n(t),c=n(238),r=n(237);a.default=function(){return l.a.createElement(c.a,null,l.a.createElement(r.a,{title:"Tags"}),l.a.createElement("h1",null,"Tags Page"))}}}]);
-//# sourceMappingURL=component---src-pages-tags-js-8b90d14cd8f87380d796.js.map
