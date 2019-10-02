@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{311:function(e,n,t){"use strict";t.r(n);var a=t(0),c=t.n(a),r=t(305),l=t(304);n.default=function(){return c.a.createElement(r.a,null,c.a.createElement(l.a,{title:"Proceeding 2019"}),c.a.createElement("h1",null,"Proceeding 2019"))}}}]);
-//# sourceMappingURL=component---src-pages-proc-2019-js-38f9716841ad1f75cab8.js.map
