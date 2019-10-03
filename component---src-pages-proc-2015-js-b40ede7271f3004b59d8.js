@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{314:function(e,n,t){"use strict";t.r(n);var a=t(0),c=t.n(a),r=t(309),l=t(308);n.default=function(){return c.a.createElement(r.a,null,c.a.createElement(l.a,{title:"Proceeding 2015"}),c.a.createElement("h1",null,"Proceeding 2015"))}}}]);
+//# sourceMappingURL=component---src-pages-proc-2015-js-b40ede7271f3004b59d8.js.map
