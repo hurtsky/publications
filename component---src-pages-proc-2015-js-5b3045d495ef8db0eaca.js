@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{330:function(e,n,t){"use strict";t.r(n);var a=t(0),i=t.n(a),l=t(321),r=t(320);n.default=function(){return i.a.createElement(l.a,null,i.a.createElement(r.a,{title:"Proceeding 2015"}),i.a.createElement("h1",null,"This page is still in updating progress..."))}}}]);
+//# sourceMappingURL=component---src-pages-proc-2015-js-5b3045d495ef8db0eaca.js.map
