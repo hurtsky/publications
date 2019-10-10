@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /pdf
+Sitemap: https://publication.seameosen.org/sitemap.xml
+Host: https://publication.seameosen.org
