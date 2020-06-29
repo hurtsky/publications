@@ -37,13 +37,13 @@ self.__precacheManifest = [
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "7cd2cae17cca90bf3b8cffebfdd31117"
+    "revision": "9aac03ed6465f118e8580e51d9c5a050"
   },
   {
-    "url": "static/webfonts/s/robotoslab/v11/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rj.woff2"
+    "url": "static/webfonts/s/robotoslab/v12/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rj.woff2"
   },
   {
-    "url": "static/webfonts/s/robotoslab/v11/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rj.woff2"
+    "url": "static/webfonts/s/robotoslab/v12/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rj.woff2"
   },
   {
     "url": "component---cache-caches-gatsby-plugin-offline-app-shell-js-ddcfb0ca688a2ce28c04.js"
