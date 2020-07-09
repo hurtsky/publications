@@ -27,17 +27,17 @@ workbox.core.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "webpack-runtime-033232e45cd490da86df.js"
+    "url": "webpack-runtime-f792e93e685135abf7e4.js"
   },
   {
-    "url": "framework-074be72d68bdd5a11893.js"
+    "url": "framework-15903296f0dd11f81061.js"
   },
   {
-    "url": "app-9ee4bae1b1274fbbb134.js"
+    "url": "app-a4b4f3d49bd5291a0770.js"
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "b065a381f82795902e31ac48c82d3c20"
+    "revision": "36a703c6906ec98b4106d06a0955859e"
   },
   {
     "url": "static/webfonts/s/robotoslab/v12/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rj.woff2"
@@ -46,7 +46,10 @@ self.__precacheManifest = [
     "url": "static/webfonts/s/robotoslab/v12/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rj.woff2"
   },
   {
-    "url": "component---cache-caches-gatsby-plugin-offline-app-shell-js-ddcfb0ca688a2ce28c04.js"
+    "url": "component---cache-caches-gatsby-plugin-offline-app-shell-js-48951226685ca0ec30fd.js"
+  },
+  {
+    "url": "polyfill-54f0f8a840fc0cf3e1fb.js"
   },
   {
     "url": "manifest.webmanifest",
@@ -143,7 +146,7 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
   // Check for resources + the app bundle
   // The latter may not exist if the SW is updating to a new version
   const resources = await idbKeyval.get(`resources:${pathname}`)
-  if (!resources || !(await caches.match(`/app-9ee4bae1b1274fbbb134.js`))) {
+  if (!resources || !(await caches.match(`/app-a4b4f3d49bd5291a0770.js`))) {
     return await fetch(event.request)
   }
 
