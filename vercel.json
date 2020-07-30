@@ -4,7 +4,10 @@
             "src": "/",
             "headers": {
                 "Accept-Encoding": "br",
-                "cache-control": "s-maxage=1000"
+                "cache-control": "s-maxage=1000",
+                "X-Content-Type-Options": "nosniff",
+                "X-Frame-Options": "SAMEORIGIN",
+                "X-XSS-Protection": "1; mode=block"
             }
         }
     ]
