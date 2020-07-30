@@ -1,6 +1,7 @@
 {
     "routes": [
         {
+            "src": "/",
             "headers": {
                 "Accept-Encoding": "br",
                 "cache-control": "s-maxage=1000"
