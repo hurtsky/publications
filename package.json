@@ -28,7 +28,7 @@
     "gatsby-plugin-webfonts": "^2.1.0",
     "gatsby-source-filesystem": "^3.7.1",
     "gatsby-transformer-sharp": "^3.7.1",
-    "gsap": "^3.6.1",
+    "gsap": "^3.7.0",
     "material-design-icons": "^3.0.1",
     "node-sass": "^6.0.0",
     "prop-types": "^15.7.2",
